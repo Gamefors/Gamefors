@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jan</h1>
-<h3 align="center">I'm a first-year student of the Fontys Venlo University of Applied Sciences I'm interested in full stack app development, networking and cybersecurity, as well as improving the developer experience. In the future, I'd like to learn more about Rust, DevOps, and ML/AI.</h3>
+<h3 align="center">I'm a first-year student of the Fontys Venlo University of Applied Sciences I'm interested in full stack app development, networking and cybersecurity, I'd like to learn more about Rust, DevOps, and ML/AI.</h3>
 
 ## 💻 Tools and Technologies
 
@@ -38,6 +38,8 @@
 
 ## 📈 GitHub Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gamefors&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="gamefors" /></p>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gamefors&show_icons=true&theme=tokyonight&locale=en" alt="gamefors" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gamefors&show_icons=true&theme=tokyonight&locale=en" alt="gamefors" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gamefors&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="gamefors" />
+
+
