@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jan</h1>
 <h3 align="center">I'm a first-year student of the Fontys Venlo University of Applied Sciences I'm interested in full stack app development, networking and cybersecurity, as well as improving the developer experience. In the future, I'd like to learn more about Rust, DevOps, and ML/AI.</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/gameforsz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gameforsz" height="30" width="40" /></a>
-<a href="https://instagram.com/7an1002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="7an1002" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gamefors" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gamefors" height="30" width="40" /></a>
-</p>
-
 ## 💻 Tools and Technologies
 
 ### Programming Languages
