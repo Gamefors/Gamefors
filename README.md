@@ -12,7 +12,7 @@ more about Rust, DevOps, and ML/AI.
   [Project3](https://github.com/gamefors/Project3). See my [repositories
   tab](https://github.com/gamefors?tab=repositories) for a full list!
 - 🌱 I’m currently learning Rust. See my adventures in exploring
-  these technologies in (one part of) my newest project, [StoryBuilder
+  these technologies in (one part of) my newest project, [RustTest
   TUI](https://github.com/gamefors/rusttest).
 - 📫 You can reach me by:
   - Sending me a DM on Discord (my username is `Gamefors#8093`)
@@ -38,7 +38,6 @@ more about Rust, DevOps, and ML/AI.
 ### Developer Tools
 
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=Ubuntu&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Dev_Tool-zsh-informational?style=flat&logo=GNUBash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Dev_Tool-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Dev_Tool-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Dev_Tool-Virtual_Machines-informational?style=flat&logo=VirtualBox&logoColor=white&color=2bbc8a)
