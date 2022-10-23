@@ -5,30 +5,20 @@
 
 ### Programming Languages
 
-![](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Python-informational?style=fat&logo=Python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Lua-informational?style=flat&logo=Lua&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/C++-informational?style=flat&logo=C++&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Ruby-informational?style=flat&logo=Ruby&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Golang-informational?style=flat&logo=Go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Rust-informational?style=flat&logo=Rust&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Bash-informational?style=flat&logo=GNUBash&logoColor=white&color=2bbc8a)
 
 ### Frameworks
 
-![](https://img.shields.io/badge/Web-Flask-informational?style=flat&logo=Flask&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Web-Ruby_On_Rails-informational?style=flat&logo=RubyOnRails&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Web-Express-informational?style=flat&logo=Express&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Front_End-React-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Discord_Bot-Discord.js-informational?style=flat&logo=Discord&logoColor=white&color=2bbc8a)
 
 ### Developer Tools
 
-![](https://img.shields.io/badge/Editor-Neovim-informational?style=flat&logo=Neovim&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Arch_Linux-informational?style=flat&logo=ArchLinux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=Ubuntu&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Dev_Tool-zsh-informational?style=flat&logo=GNUBash&logoColor=white&color=2bbc8a)
