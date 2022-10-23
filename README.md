@@ -50,3 +50,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gamefors&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="gamefors" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gamefors&show_icons=true&theme=tokyonight&locale=en" alt="gamefors" /></p>
+
+<a href="https://app.daily.dev/GMF"><img src="https://api.daily.dev/devcards/8417618927f7468ba75b5daf1b581944.png?r=220" width="400" alt="Jan's Dev Card"/></a>
