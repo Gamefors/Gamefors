@@ -13,14 +13,11 @@
 
 ### Frameworks
 
-![](https://img.shields.io/badge/Web-Express-informational?style=flat&logo=Express&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Front_End-React-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Discord_Bot-Discord.js-informational?style=flat&logo=Discord&logoColor=white&color=2bbc8a)
 
 ### Developer Tools
 
-![](https://img.shields.io/badge/OS-Arch_Linux-informational?style=flat&logo=ArchLinux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=Ubuntu&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Dev_Tool-zsh-informational?style=flat&logo=GNUBash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Dev_Tool-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Dev_Tool-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
