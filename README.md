@@ -21,7 +21,6 @@
 ![](https://img.shields.io/badge/Dev_Tool-zsh-informational?style=flat&logo=GNUBash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Dev_Tool-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Dev_Tool-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Dev_Tool-Virtual_Machines-informational?style=flat&logo=VirtualBox&logoColor=white&color=2bbc8a)
 
 ## 📈 GitHub Stats
 
