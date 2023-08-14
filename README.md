@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Jan Große Jüttermann</h1>
-<h3 align="center">I'm a first-year student of the Fontys Venlo University of Applied Sciences I'm interested in full stack app development, networking and cybersecurity, I'd like to learn more about Rust, DevOps, and ML/AI.</h3>
 
 ## 💻 Tools and Technologies
 
